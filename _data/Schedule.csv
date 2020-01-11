@@ -1,8 +1,8 @@
 Week,Month,Date,Day,Topic,Slides,Reading,Projects
 1,Jan,7,Tue,Introduction,-,,
 1,Jan,9,Thu,,-,,
-2,Jan,14,Tue,,-,,
-2,Jan,16,Thu,,-,"[SHV] Sections 3.1, 3.2",
+2,Jan,14,Tue,"Path planning for Euclidean configuration spaces: Visibility graphs, trapezoidal cell decomposition, the Generalized Voronoi diagram",-,,
+2,Jan,16,Thu,Manipulator’s Kinematics,-,"[SHV] Sections 3.1, 3.2",
 3,Jan,21,Tue,,-,,
 3,Jan,23,Thu,,-,,
 4,Jan,28,Tue,,-,,
