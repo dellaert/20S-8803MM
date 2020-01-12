@@ -1,4 +1,4 @@
-## Slides for Spring 2020 CS 3630 at Georgia Tech
+## Slides for Spring 2020 CS 8803 at Georgia Tech
 
 
 ### Acknowledgements
