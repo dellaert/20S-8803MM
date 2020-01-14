@@ -1,6 +1,6 @@
 ﻿Week,Month,Date,Day,Topic,Slides,Reading,Projects,,Topics,,,
-1,Jan,7,Tue,Introduction,-,,,,Visual servoing,,,
-1,Jan,9,Thu,Configuration spaces,-,,,,Configuration spaces,,,
+1,Jan,7,Tue,Introduction,-,[Choset] Chapter 1,,,Visual servoing,,,
+1,Jan,9,Thu,"Configuration space for rigid bodies: Rigid motions, SO(n), SE(n) ",-,,,,Configuration spaces,,,
 2,Jan,14,Tue,Path planning in Euclidean space,-,,,,Force Control,,,
 2,Jan,16,Thu,Manipulator Kinematics,-,"[SHV] Sections 3.1, 3.2",,,Arm Kinematics (F&I),,,
 3,Jan,21,Tue,,-,,,,Wheeled Vehicles,L&P,,
