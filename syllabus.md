@@ -12,7 +12,7 @@ The desired learning outcome is that, given a mobile manipulation application an
 This is a graduate class with a cross-listed undergraduate section. For undergrads there is a 3630 pre-requisite. While there are no pre-requisites for graduate students, we will go rather quickly over basic concepts, and you will have to pick up the slack on your own time if you don’t have the background, e.g., by studying Peter Corke’s excellent book (which FD used in 3630). Good programming and math skills, esp. linear algebra, are essential.
 
 ### Text
-We will often be referring to papers rather than books. However, the following book from 3630 is a handy reference: Robotics, Vision & Control, Peter Corke, Springer (see its webpage for links).
+We will often be referring to papers rather than books. However, please see the following [list of books](books.html), many of which are available online.
 
 ### Structure and Sequence of Class Activities
 There will be a mix of conventional lectures, in-class presentations of research papers by students, and reviewing activities related to the final project (see below).
@@ -20,8 +20,8 @@ There will be a mix of conventional lectures, in-class presentations of research
 ### Out-of-class Work
 There are several activities designed to achieve the learning outcomes above:
 * Reading and understanding research papers: I will assign papers to read, and mini assignments associated with them to help you parse the relevant concepts from them.
-* Foundational assignments: there will be 6 assignments on foundational material that will have a substantial ROS (Robot Operating System) component, some in simulation, others on the Fetch Robotics platform that we will use as a prototypical mobile manipulation platform.
-* Final project: the assignments are designed to build and get familiar with individual robot perception, planning, and manipulation skills. In a final project you will put these different skills together in a layered software architecture to build a fully integrated, operational MM system. The final design is to be demonstrated and reported in a conference style manuscript.
+* Foundational assignments: there will be 4 assignments on foundational material, some of which  will have a substantial ROS (Robot Operating System) component.
+* Final project: the assignments are designed to build and get familiar with individual robot perception, planning, and manipulation skills. In a final project you will put these different skills together in a layered software architecture to build a fully integrated, operational MM system. The final design is to be demonstrated and reported in a conference style manuscript. You will work in teams.
 * Assessment: At the end of the course, there will be a final exam, but you will be given the questions in advance, some time after each lecture. This will allow you to reflect on the lectures on a regular basis, as well as thinking back on the entire course near final exam time.
 
 ### Schedule
@@ -29,8 +29,8 @@ A detailed schedule, subject to change, can be found on the [schedule page](sche
 
 ### Grading
 * Class Participation and in-class presentations: 10%
-* [Projects](projects.md): 60%
-* Final Project: 20%
+* [Projects](projects.md): 50%
+* Final Project: 30%
 * Final Exam: 10%
 
 Late policy for this course will be 12% per day late, pro-rated per hour.
