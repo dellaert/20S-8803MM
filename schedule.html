@@ -20,11 +20,15 @@ title: Schedule
       <td>{{item.Topic}}</td>
       <td>
         {% unless item.Slides == "-" %}
-          <a href="Slides/{{item.Slides}}.pptx">pptx</a>, 
+          <a href="Slides/{{item.Slides}}.pptx">pptx</a>,
           <a href="Slides/{{item.Slides}}.pdf">pdf</a>
         {% endunless %}
       </td>
-      <td>{{item.Reading}}</td>
+      <td>
+        {% unless item.Reading == "-" %}
+          <a href="Readings/{{item.Reading}}.md">{{item.Reading}}.md</a>
+        {% endunless %}
+      </td>
       <td>{{item.Projects}}</td>
     </tr>
     {% endfor %}

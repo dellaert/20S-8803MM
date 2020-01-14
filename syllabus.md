@@ -25,7 +25,7 @@ There are several activities designed to achieve the learning outcomes above:
 * Assessment: At the end of the course, there will be a final exam, but you will be given the questions in advance, some time after each lecture. This will allow you to reflect on the lectures on a regular basis, as well as thinking back on the entire course near final exam time.
 
 ### Schedule
-A detailed schedule, subject to change, can be found on the [schedule page](schedule.md).
+A detailed schedule, subject to change, can be found on the [schedule page](schedule.html).
 
 ### Grading
 * Class Participation and in-class presentations: 10%
