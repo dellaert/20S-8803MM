@@ -1,6 +1,6 @@
 Week,Month,Date,Day,3630,Instructor,Topic,Slides,Reading,Projects,,Topics,,,
 1,Jan,7,Tue,Seth,Seth,Introduction,-,intro,,Intro,,,,
-1,Jan,9,Thu,Seth,Seth,"Configuration space for rigid bodies: Rigid motions, SO(n), SE(n) ",-,C-space,,Configuration spaces,,,,
+1,Jan,9,Thu,Seth,Seth,"Configuration space for rigid bodies: Rigid motions, SO(n), SE(n) ",-,c-space,,Configuration spaces,,,,
 2,Jan,14,Tue,Frank,Seth,Path planning in Euclidean space,-,path-planning,,Roadmaps/visibility,,,,
 2,Jan,16,Thu,Frank,Frank,Localization,-,-,,Wheeled Vehicles,,,,
 3,Jan,21,Tue,<<< MLK Holiday >>>,Seth,Potential Fields,-,-,,SLAM,,L&P,,
