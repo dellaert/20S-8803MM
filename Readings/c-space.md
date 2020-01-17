@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Readings: C-space
+title: Readings
 ---
 * The concept of configuration spaces is introduced in Chapter 3 of [Choset], Chapter 2 of [Latombe], Chapter 4 of [LaValle]. The level of mathematical treatment, and the number of examples, varies considerably among these references.
 * An introductory-level presentation of SO(n) and SE(n) is given in Chap. 2 of [SHV].
