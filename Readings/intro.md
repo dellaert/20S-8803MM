@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Readings Introduction
+title: Readings
 ---
 Read [Choset] Chapter 1
