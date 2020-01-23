@@ -3,7 +3,7 @@ layout: default
 title: Project 1
 ---
 
-# Project 1: TBD
+# Project 1: ROS, Gazebo, and Fetch
 
 The instructions of assignment 1 are given in the following document:
 
