@@ -1,0 +1,1 @@
+[[Murray, Li, & Sastry]](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
