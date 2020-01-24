@@ -14,23 +14,23 @@ title: Schedule
     </tr>
   </thead>
   <tbody>
-    {% for item in site.data.Schedule]
+    {% for item in site.data.Schedule %}
     <tr>
       <td>{{item.Day}}, {{item.Month}} {{item.Date}}</td>
       <td>{{item.Topic}}</td>
       <td>
-        {% unless item.Slides == "-"]
+        {% unless item.Slides == "-" %}
           <a href="Slides/{{item.Slides}}.pptx">pptx</a>,
           <a href="Slides/{{item.Slides}}.pdf">pdf</a>
-        {% endunless]
+        {% endunless %}
       </td>
       <td>
-        {% unless item.Reading == "-"]
+        {% unless item.Reading == "-" %}
           <a href="{{item.Reading}}.html">{{item.Reading}}</a>
-        {% endunless]
+        {% endunless %}
       </td>
       <td>{{item.Projects}}</td>
     </tr>
-    {% endfor]
+    {% endfor %}
   </tbody>
 </table>
