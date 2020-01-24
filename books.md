@@ -4,7 +4,7 @@ title: Books
 ---
 ## Books
 
-* [Dellaert & Kaess](Readings/Dellaert17fnt.pdf)
+* [Dellaert & Kaess (DK)](Readings/Dellaert17fnt.pdf) Factor Graphs for Robot Perception, 2017
 * [Lynch & Park (L&P)](http://hades.mech.northwestern.edu/index.php/Modern_Robotics) Modern Robotics: Mechanics, Planning, and Control, Cambridge University Press, 2017
 * [Spong, Hutchinson, Vidyasagar (SHV)](https://www.cc.gatech.edu/~seth/index.php?u=spongbook) Robot Modelling and Control, John Wiley and Sons, Inc., 2005. 
 * [Choset, Lynch, Hutchinson, Kantor, Burgard, Kavraki & Thrun (Choset)](http://biorobotics.ri.cmu.edu/book/) Principles of Robot Motion: Theory, Algorithms, and Implementations, MIT Press, Boston, 2005. This book is available through [IEEExplore](https://ieeexplore.ieee.org/book/6267238).

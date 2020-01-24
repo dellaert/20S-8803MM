@@ -3,4 +3,4 @@ layout: default
 title: Readings
 ---
 # Kinematics
-* Read {% include SHV.md %} Sections 3.1, 3.2
+* Read [SHV] Sections 3.1, 3.2
