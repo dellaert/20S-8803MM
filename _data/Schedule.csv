@@ -14,15 +14,15 @@
 7,Feb,18,Tue,Seth,Frank,Grasping,-,-,2 due - 3 out,Arm Kinematics (F&I),,http://people.csail.mit.edu/tlp/IJRRBel.html,,
 7,Feb,20,Thu,Seth,Frank,Grasping,-,-,,Grasping,,,,
 8,Feb,25,Tue,Frank,Seth,MP: PRM,-,-,,MP: Non-euclidean,,,,
-8,Feb,27,Thu,Frank,Seth,"MP: RRT, RRT*",-,-,3 due - 4 out,MP: PRM,,,,
-9,Mar,3,Tue,Seth,Frank,"Trajectory optimization, CHOMP",-,-,,"MP: RRT, RRT*",,,,
-9,Mar,5,Thu,Seth,Frank,"TO with Factor graphs, GPMP",-,-,,CHOMP,,,,
+8,Feb,27,Thu,Frank,Seth,"MP: RRT, RRT*",-,-,3 due - 4 out,MP: PRM,,Seth:,13,16
+9,Mar,3,Tue,Seth,Frank,"Trajectory optimization, CHOMP",-,-,,"MP: RRT, RRT*",,Frank:,15,12
+9,Mar,5,Thu,Seth,Frank,"TO with Factor graphs, GPMP",-,-,,CHOMP,,,2,-4
 10,Mar,10,Tue,Seth,Frank,Classical Planning,-,-,,GPMP,,,,
 10,Mar,12,Thu,Frank,Seth,Task and Motion Planning,-,-,4 due - fp out,,,,,
 11,Mar,17,Tue,<<>>,,<<< Spring Break >>>,-,-,,NAMO,,,,
 11,Mar,19,Thu,<<>>,,<<< Spring Break >>>,-,-,,Walking,Applications:,True MM,Robot,Source
 12,Mar,24,Tue,Frank,Seth,NAMO,-,-,proposals due,Classical Planning,Opening a door,y,,
-12,Mar,26,Thu,Seth,Frank,Walking,-,-,,Task and Motion Planning,Picking fruit,,,
+12,Mar,26,Thu,Seth,Ye,Walking (Ye Zhao),-,-,,Task and Motion Planning,Picking fruit,,,
 13,Mar,31,Tue,Frank,Seth,HPN,-,-,,HPN ?,Robotic forklift,,,
 13,Apr,2,Thu,Frank,Seth,<<TBD>>,-,-,,,BD Arms on wheels,y,,
 14,Apr,7,Tue,Seth,Frank,<<TBD>>,-,-,,,Robot waiter,y,Krang,Munzir Zafar
@@ -31,6 +31,3 @@
 15,Apr,16,Thu,Frank,Seth,Presentations,-,-,,,DRC,,,
 16,Apr,21,Tue,Frank,Seth,Presentations,-,-,final due,,,,,
 ,Apr,23,Thu,,,Final - 2:40 PM ‐ 5:30 PM,-,-,,,,,,
-,,,Seth:,13,16,,,,,,,,,
-,,,Frank:,15,13,,,,,,,,,
-,,,,2,-3,,,,,,,,,
