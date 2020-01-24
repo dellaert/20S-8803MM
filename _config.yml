@@ -23,6 +23,7 @@ email: frank.dellaert@cc.gatech.edu
 # github_username: borglab
 # google_analytics: UA-312077-3
 # show_excerpts: true
+includes_dir        : _includes
 
 # logo: favicon.png
 # show_downloads: "true"
