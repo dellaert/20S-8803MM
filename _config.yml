@@ -15,15 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Mobile Manipulation
 email: frank.dellaert@cc.gatech.edu
-# description: >- # this means to ignore newlines until "baseurl:"
-#   GTSAM is a BSD-licensed C++ library that implements sensor fusion for robotics and computer vision using factor graphs.
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://gtsam.org" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: gtsam4
-# github_username: borglab
-# google_analytics: UA-312077-3
-# show_excerpts: true
-includes_dir        : _includes
 
 # logo: favicon.png
 # show_downloads: "true"
@@ -32,33 +23,7 @@ header_pages:
   - index.html
   - resources.md
   - syllabus.md
+  - books.md
   - projects.md
   - schedule.md
 
-# Build settings
-# markdown: kramdown
-# theme: minima
-# plugins:
-#   - jekyll-feed
-#   - jekyll-sitemap
-
-# collections:
-#   tutorials:
-#     output: true
-#   notes:
-#     output: true
-#   features:
-#     output: true
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-include: [doxygen]
