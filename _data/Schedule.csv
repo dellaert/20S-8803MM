@@ -6,7 +6,7 @@
 3,Jan,21,Tue,<<>>,Seth,Potential Fields,-,potential-fields,,SLAM,,L&P,,
 3,Jan,23,Thu,Frank,Frank,Visual Odometry,-,visual-odometry,1 out,Visual Odometry,,,,
 4,Jan,28,Tue,Seth,Lana,Lana Lazebnik lecture,-,-,,MP: plane for base,,,,
-4,Jan,30,Thu,Seth,Frank,SLAM,-,-,,Trajectory Optimization,,,,
+4,Jan,30,Thu,Seth,Frank,SLAM,-,slam,,Trajectory Optimization,,,,
 5,Feb,4,Tue,Frank,Seth,Visual servoing,-,-,,Localization,,,,
 5,Feb,6,Thu,Seth,Frank,Manipulator Kinematics,-,-,1 due - 2 out,,,Ye Zhao guest lecture,,
 6,Feb,11,Tue,Frank,Seth,Visual servoing w Arms,-,kinematics,,Visual servoing,,,,
