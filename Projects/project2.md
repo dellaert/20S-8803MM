@@ -20,8 +20,8 @@ deliverable, you will submit the presentation as a pdf to canvas.
 
 The supporting files are:
 
-<a href="./Pose2SLAM.py" download="Pose2SLAM">Pose2SLAM.py</a>
+<a href="./Pose2SLAM.py" download="Pose2SLAM.py">Pose2SLAM.py</a>
 
 Subscriber_Example.pyPreview the document
 
-<a href="./Subscriber_Example.py" download="Subscriber_Example">Subscriber_Example.py</a>
+<a href="./Subscriber_Example.py" download="Subscriber_Example.py">Subscriber_Example.py</a>
