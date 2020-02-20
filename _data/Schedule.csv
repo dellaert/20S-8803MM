@@ -12,7 +12,7 @@
 6,Feb,11,Tue,Seth,Frank,FW Kinematics & Jacobians,-,kinematics,,Visual servoing,,,,
 6,Feb,13,Thu,Frank,Seth,Force Control,-,-,,Force Control,,http://www.neil.dantam.name/,,
 7,Feb,18,Tue,Seth,Frank,More Force Control,-,-,2 due - 3 out,Arm Kinematics (F&I),,http://people.csail.mit.edu/tlp/IJRRBel.html,,
-7,Feb,20,Thu,Seth,Frank,Even More Force Control,-,-,,Grasping,,,,
+7,Feb,20,Thu,Seth,Frank,Recursive Newton-Euler,-,dynamics,,Grasping,,,,
 8,Feb,25,Tue,Frank,Seth,Grasping,-,-,,MP: Non-euclidean,,,,
 8,Feb,27,Thu,Frank,Seth,Grasping,-,-,3 due - 4 out,MP: PRM,,Seth:,14,15
 9,Mar,3,Tue,Seth,Frank,Motion Planning,-,-,,"MP: RRT, RRT*",,Frank:,14,12
