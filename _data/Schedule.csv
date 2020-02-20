@@ -11,21 +11,21 @@
 5,Feb,6,Thu,Seth,Frank,"SO(2), SE(2), SO(3), ans SE(3)",-,-,1 due - 2 out,,,Ye Zhao guest lecture,,
 6,Feb,11,Tue,Seth,Frank,FW Kinematics & Jacobians,-,kinematics,,Visual servoing,,,,
 6,Feb,13,Thu,Frank,Seth,Force Control,-,-,,Force Control,,http://www.neil.dantam.name/,,
-7,Feb,18,Tue,Seth,Frank,Grasping,-,-,2 due - 3 out,Arm Kinematics (F&I),,http://people.csail.mit.edu/tlp/IJRRBel.html,,
-7,Feb,20,Thu,Seth,Frank,Grasping,-,-,,Grasping,,,,
-8,Feb,25,Tue,Frank,Seth,Motion Planning,-,-,,MP: Non-euclidean,,,,
-8,Feb,27,Thu,Frank,Seth,IK and Trajectory Control,-,-,3 due - 4 out,MP: PRM,,Seth:,14,15
-9,Mar,3,Tue,Seth,Frank,"Trajectory optimization, CHOMP",-,-,,"MP: RRT, RRT*",,Frank:,14,12
-9,Mar,5,Thu,Seth,Frank,"TO with Factor graphs, GPMP",-,-,,CHOMP,,,0,-3
-10,Mar,10,Tue,Seth,Frank,Classical Planning,-,-,,GPMP,,,,
-10,Mar,12,Thu,Frank,Seth,Task and Motion Planning,-,-,4 due - fp out,,,,,
+7,Feb,18,Tue,Seth,Frank,More Force Control,-,-,2 due - 3 out,Arm Kinematics (F&I),,http://people.csail.mit.edu/tlp/IJRRBel.html,,
+7,Feb,20,Thu,Seth,Frank,Even More Force Control,-,-,,Grasping,,,,
+8,Feb,25,Tue,Frank,Seth,Grasping,-,-,,MP: Non-euclidean,,,,
+8,Feb,27,Thu,Frank,Seth,Grasping,-,-,3 due - 4 out,MP: PRM,,Seth:,14,15
+9,Mar,3,Tue,Seth,Frank,Motion Planning,-,-,,"MP: RRT, RRT*",,Frank:,14,12
+9,Mar,5,Thu,Seth,Frank,IK and Trajectory Control,-,-,,CHOMP,,,0,-3
+10,Mar,10,Tue,Seth,Frank,"Trajectory optimization, CHOMP",-,-,,GPMP,,,,
+10,Mar,12,Thu,Frank,Seth,"TO with Factor graphs, GPMP",-,-,4 due - fp out,,,,,
 11,Mar,17,Tue,<<>>,,<<< Spring Break >>>,-,-,,NAMO,,,,
 11,Mar,19,Thu,<<>>,,<<< Spring Break >>>,-,-,,Walking,Applications:,True MM,Robot,Source
-12,Mar,24,Tue,Frank,Seth,NAMO,-,-,proposals due,Classical Planning,Opening a door,y,,
+12,Mar,24,Tue,Frank,Seth,Classical Planning,-,-,proposals due,Classical Planning,Opening a door,y,,
 12,Mar,26,Thu,Seth,Ye,Walking (Ye Zhao),-,-,,Task and Motion Planning,Picking fruit,,,
-13,Mar,31,Tue,Frank,Seth,HPN,-,-,,HPN ?,Robotic forklift,,,
-13,Apr,2,Thu,Frank,Seth,<<TBD>>,-,-,,,BD Arms on wheels,y,,
-14,Apr,7,Tue,Seth,Frank,<<TBD>>,-,-,,,Robot waiter,y,Krang,Munzir Zafar
+13,Mar,31,Tue,Frank,Seth,Task and Motion Planning,-,-,,HPN ?,Robotic forklift,,,
+13,Apr,2,Thu,Frank,Seth,NAMO,-,-,,,BD Arms on wheels,y,,
+14,Apr,7,Tue,Seth,Frank,HPN,-,-,,,Robot waiter,y,Krang,Munzir Zafar
 14,Apr,9,Thu,Frank,Seth,<<TBD>>,-,-,pres due,,Shared manipulation,y,,
 15,Apr,14,Tue,Seth,Frank,Presentations,-,-,,,Go get a beer,,,
 15,Apr,16,Thu,Frank,Seth,Presentations,-,-,,,DRC,,,
