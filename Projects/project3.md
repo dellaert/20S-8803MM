@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project 2
+title: Project 3
 ---
 
 # Project 3: Plannar Manipulator Kinematics
