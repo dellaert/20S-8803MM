@@ -10,15 +10,15 @@
 5,Feb,4,Tue,Frank,Seth,Visual servoing,-,visual-servo,,Localization,,,,
 5,Feb,6,Thu,Seth,Frank,"SO(2), SE(2), SO(3), ans SE(3)",-,-,1 due - 2 out,,,Ye Zhao guest lecture,,
 6,Feb,11,Tue,Seth,Frank,FW Kinematics & Jacobians,-,kinematics,,Visual servoing,,,,
-6,Feb,13,Thu,Frank,Seth,Force Control,-,-,,Force Control,,http://www.neil.dantam.name/,,
-7,Feb,18,Tue,Seth,Frank,More Force Control,-,-,2 due - 3 out,Arm Kinematics (F&I),,http://people.csail.mit.edu/tlp/IJRRBel.html,,
+6,Feb,13,Thu,Frank,Seth,Dynamics,-,-,,Force Control,,http://www.neil.dantam.name/,,
+7,Feb,18,Tue,Seth,Seth,Lagrangian Dynamics,-,-,2 due - 3 out,Arm Kinematics (F&I),,http://people.csail.mit.edu/tlp/IJRRBel.html,,
 7,Feb,20,Thu,Seth,Frank,Recursive Newton-Euler,-,dynamics,,Grasping,,,,
-8,Feb,25,Tue,Frank,Seth,Grasping,-,-,,MP: Non-euclidean,,,,
-8,Feb,27,Thu,Frank,Seth,Grasping,-,-,3 due - 4 out,MP: PRM,,Seth:,14,15
+8,Feb,25,Tue,Frank,Frank,Kinematic Grasps,-,-,,MP: Non-euclidean,,,,
+8,Feb,27,Thu,Frank,Seth,Nullspace Projection Methods,-,-,3 due - 4 out,MP: PRM,,Seth:,14,15
 9,Mar,3,Tue,Seth,Frank,Motion Planning,-,-,,"MP: RRT, RRT*",,Frank:,14,12
-9,Mar,5,Thu,Seth,Frank,IK and Trajectory Control,-,-,,CHOMP,,,0,-3
-10,Mar,10,Tue,Seth,Frank,"Trajectory optimization, CHOMP",-,-,,GPMP,,,,
-10,Mar,12,Thu,Frank,Seth,"TO with Factor graphs, GPMP",-,-,4 due - fp out,,,,,
+9,Mar,5,Thu,Seth,Frank,IK and Trajectory Control,-,contact,,CHOMP,,,0,-3
+10,Mar,10,Tue,Seth,Frank,Grasping with Friction,-,-,,GPMP,,,,
+10,Mar,12,Thu,Frank,Seth,Trajectory optimization,-,-,4 due - fp out,,,,,
 11,Mar,17,Tue,<<>>,,<<< Spring Break >>>,-,-,,NAMO,,,,
 11,Mar,19,Thu,<<>>,,<<< Spring Break >>>,-,-,,Walking,Applications:,True MM,Robot,Source
 12,Mar,24,Tue,Frank,Seth,Classical Planning,-,-,proposals due,Classical Planning,Opening a door,y,,
