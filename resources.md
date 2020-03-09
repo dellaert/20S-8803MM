@@ -11,3 +11,5 @@ title: Resources
 * [Visual Servoing notes](Readings/cs8803-sp-2020.pdf)
 
 * [Kinematics notes](Readings/manipulator-kinematics.pdf)
+
+* [Frank's Notes on Contact](Readings/MM8803-contacts.pdf)
