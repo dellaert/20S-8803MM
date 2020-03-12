@@ -16,3 +16,4 @@ title: Resources
 * [Kinematis slides](Readings/Kinematics_Jacobians.pdf)
 * [Frank's Slides w RNEA](Readings/8803-Dynamics.pdf)
 * [Frank's Notes on Contact](Readings/MM8803-contacts.pdf)
+* [Frank's Notes on SE(3) and Adjoint Map](Readings/3D-Adjoints-note.pdf)
