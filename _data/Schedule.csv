@@ -18,8 +18,8 @@
 9,Mar,3,Tue,Seth,Frank,Motion Planning,-,-,,"MP: RRT, RRT*",,Frank:,14,12
 9,Mar,5,Thu,Seth,Frank,IK and Trajectory Control,-,contact,,CHOMP,,,0,-3
 10,Mar,10,Tue,Seth,Frank,Grasping with Friction,-,-,,GPMP,,,,
-10,Mar,12,Thu,Frank,Seth,Trajectory optimization,-,-,4 due - fp out,,,,,
-11,Mar,17,Tue,<<>>,,<<< Spring Break >>>,-,-,,NAMO,,,,
+10,Mar,12,Thu,Frank,Seth,Trajectory optimization,-,-,fp out,,,,,
+11,Mar,17,Tue,<<>>,,<<< Spring Break >>>,-,-,4 due,NAMO,,,,
 11,Mar,19,Thu,<<>>,,<<< Spring Break >>>,-,-,,Walking,Applications:,True MM,Robot,Source
 12,Mar,24,Tue,Frank,Seth,Classical Planning,-,-,proposals due,Classical Planning,Opening a door,y,,
 12,Mar,26,Thu,Seth,Ye,Walking (Ye Zhao),-,-,,Task and Motion Planning,Picking fruit,,,
